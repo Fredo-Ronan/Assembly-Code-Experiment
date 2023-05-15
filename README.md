@@ -1,6 +1,9 @@
 # Assembly-Code-Experiment
 This is the repository for my spare time learning about Assembly Programming Language
 
+OS : <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-B0A404?logo=ubuntu&logoColor=white&style=flat"/>
+
+---
 ## NOTES
 
 ### Compiling the ``.asm`` Assembly Code file
